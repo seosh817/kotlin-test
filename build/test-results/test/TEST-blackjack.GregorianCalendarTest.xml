@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="blackjack.GregorianCalendarTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-01-25T03:26:49" hostname="seunghwans-MacBook-Pro.local" time="0.094">
-  <properties/>
-  <testcase name="gregorianCalendarTest()" classname="blackjack.GregorianCalendarTest" time="0.094"/>
-  <system-out><![CDATA[ 일 월 화 수 목 금 토 8
-3
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
