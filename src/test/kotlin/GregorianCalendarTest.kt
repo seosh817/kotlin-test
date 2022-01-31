@@ -1,5 +1,3 @@
-package blackjack
-
 import org.joda.time.DateTime
 import org.junit.jupiter.api.Test
 import java.text.DateFormatSymbols

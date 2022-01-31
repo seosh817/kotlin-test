@@ -1,5 +1,3 @@
-package blackjack
-
 import org.junit.jupiter.api.Test
 
 data class Car(val name: String = "", var position: Int = 0) {
