@@ -15,6 +15,6 @@ class GroupByTest {
     fun `groupBy() 테스트2`() {
         val personList = listOf(Person("abc", 1), Person("def", 1), Person("ghi", 2), Person("jk", 3))
         val personGroupByMap: Map<Int, List<Person>> = personList.groupBy { it.age }
-        println(personGroupByMap)
+        println(personGroupByMap) // {1=[Person(name=abc, age=1), Person(name=def, age=1)], 2=[Person(name=ghi, age=2)], 3=[Person(name=jk, age=3)]}
     }
 }
